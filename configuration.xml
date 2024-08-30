@@ -1,0 +1,14 @@
+<pleskBackupMX>
+    <primaryMX></primaryMX>
+    <plesk>
+        <host></host>
+        <username></username>
+        <password></password>
+    </plesk>
+    <iredmail>
+        <host></host>
+        <username></username>
+        <password></password>
+        <database></database>
+    </iredmail>
+</pleskBackupMX>
